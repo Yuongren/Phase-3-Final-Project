@@ -1,26 +1,26 @@
 # Phase-3-Final-Project
 
- ## Student and Employee Registration System
+## Student and Employee Registration System
 
 This is a simple command-line interface (CLI) application built in Python that allows users to register students and employees. The application uses SQLAlchemy ORM for database management and SQLite as the database engine.
 
 ### Features:
 
- - Register a new student or employee.
- - List all registered students and employees.
- - Store personal information like name, email, grade (for students), and department (for employees).
+- Register a new student or employee.
+- List all registered students and employees.
+- Store personal information like name, email, grade (for students), and department (for employees).
 
 ### Prerequisites
 Before you begin, ensure you have the following installed:
 
- - Python 3.x
- - SQLite (comes pre-installed with Python)
- - pipenv (for managing dependencies)
+- Python 3.x
+- SQLite (comes pre-installed with Python)
+- pipenv (for managing dependencies)
 
 ### Installation
 
 #### Step 1: Clone the Repository
- Git clone the project to your machine -(https://github.com/Yuongren/Phase-3-Final-Project)
+Git clone the project to your machine -(https://github.com/Yuongren/Phase-3-Final-Project)
 and then navigate to the the repository from your machine by runinning cd Phase-3-Final-Project
 
 #### Step 2: Set up the Virtual Environment
@@ -36,7 +36,7 @@ Activate the virtual environment where all dependencies are installed by running
 
 ### Usage
 
-#### 1. Register a New Person
+#### 1.Register a New Person
 You can register either a student or an employee by providing the necessary details.
 
 Run the following command to start the registration process:
